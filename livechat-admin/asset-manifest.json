@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/main.css",
-    "main.js": "/main.a95d09280325e7b27ee3.bundle.js",
+    "main.js": "/main.26fd4597545675eaf820.bundle.js",
     "main.css.map": "/main.css.map",
-    "main.js.map": "/main.a95d09280325e7b27ee3.bundle.js.map",
-    "runtime~main.js": "/runtime~main.a95d09280325e7b27ee3.bundle.js",
-    "runtime~main.js.map": "/runtime~main.a95d09280325e7b27ee3.bundle.js.map",
-    "vendors~main.js": "/vendors~main.a95d09280325e7b27ee3.bundle.js",
-    "vendors~main.js.map": "/vendors~main.a95d09280325e7b27ee3.bundle.js.map",
+    "main.js.map": "/main.26fd4597545675eaf820.bundle.js.map",
+    "runtime~main.js": "/runtime~main.26fd4597545675eaf820.bundle.js",
+    "runtime~main.js.map": "/runtime~main.26fd4597545675eaf820.bundle.js.map",
+    "vendors~main.js": "/vendors~main.26fd4597545675eaf820.bundle.js",
+    "vendors~main.js.map": "/vendors~main.26fd4597545675eaf820.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.2508ea1d6ad7e5b9e71adaf28d6238ed.js": "/precache-manifest.2508ea1d6ad7e5b9e71adaf28d6238ed.js",
-    "service-worker.js": "/service-worker.js"
+    "precache-manifest.c8abfa73a95d51b2731045e7db514de3.js": "/precache-manifest.c8abfa73a95d51b2731045e7db514de3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/RocketChat.minimal.css": "/static/media/RocketChat.d1de1459.woff2"
   }
 }
