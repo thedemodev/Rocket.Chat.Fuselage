@@ -80,13 +80,13 @@
   font-weight: 400;
   font-display: auto;
 
-  src: url(static/media/RocketChat.97a680d6.eot);
+  src: url(static/media/RocketChat.340e1b47.eot);
   src:
-    url(static/media/RocketChat.97a680d6.eot?#iefix) format("embedded-opentype"),
-    url(static/media/RocketChat.01c178e1.woff2) format("woff2"),
-    url(static/media/RocketChat.86618708.woff) format("woff"),
-    url(static/media/RocketChat.813629ca.ttf) format("truetype"),
-    url(static/media/RocketChat.c8e4b424.svg#RocketChat) format("svg");
+    url(static/media/RocketChat.340e1b47.eot?#iefix) format("embedded-opentype"),
+    url(static/media/RocketChat.acaa6474.woff2) format("woff2"),
+    url(static/media/RocketChat.72821bcf.woff) format("woff"),
+    url(static/media/RocketChat.563f69e8.ttf) format("truetype"),
+    url(static/media/RocketChat.3137666f.svg#RocketChat) format("svg");
 }
 
 
